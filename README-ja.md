@@ -1,5 +1,7 @@
 # Using-stable-diffusion-webui-in-Google-Colab
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 このリポジトリでは、Google Colab上でAUTOMATIC1111氏が開発したStable Diffusion web UIを実行するための完全なセットアップを提供します。モデル、LoRA、VAE、Embedding、ControlNet、拡張機能のダウンロードなど、さまざまな機能が含まれています。
 
 ## 免責事項
