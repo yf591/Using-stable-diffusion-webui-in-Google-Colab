@@ -1,5 +1,7 @@
 # Using-stable-diffusion-webui-in-Google-Colab
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 This repository provides complete setups for running Stable Diffusion web UI by AUTOMATIC1111 on Google Colab. It includes various features such as downloading models, LoRAs, VAEs, Embeddings, ControlNets, and extensions.
 
 ## Disclaimer
